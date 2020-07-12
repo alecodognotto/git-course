@@ -29,7 +29,7 @@ console.log("Resultado com chamada da função via módulo");
 console.log(calculadora.soma(10,20));
 
 console.log("                               ");
-console.log("Resultado com chamada da função de cálculo");
+console.log("Resultado com chamada da função");
 /* console.log(somaFuncao(10,20)); */
 console.log(mult(10,20));
 console.log(sub(10,20));
